@@ -1,0 +1,8 @@
+RewriteEngine on
+
+RewriteCond %{THE_REQUEST} ^.*/index\.html
+RewriteRule ^(.*)index.html$ /$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} .
+RewriteCond %{HTTP_HOST} !^ignisdesign\.info [NC]
+RewriteRule (.*) http://ignisdesign.info/$1 [R=301,L]
