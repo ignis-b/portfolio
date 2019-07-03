@@ -15,7 +15,7 @@ body {
 }
 #page-wrap {
 	width: 800px;
-	margin: 40px auto 60px;
+	margin: 60px auto;
 }
 #pic {
 	float: right;
@@ -66,6 +66,7 @@ ul {
 }
 #objective {
 	float: left;
+	margin: 20px 0px;
 }
 #objective p {
 	font-family: Georgia, Serif;
