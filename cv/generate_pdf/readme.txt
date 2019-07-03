@@ -1,0 +1,7 @@
+To generate PDF:
+
+wkhtmltopdf --default-header --no-header-line --header-left '' http://local.drupal7/cv/index.html /var/www/html/drupal7/cv/Igna_Burmova_CV.pdf
+
+wkhtmltopdf --default-header --no-header-line --header-left '' http://local.drupal7/cv/index_en.html /var/www/html/drupal7/cv/Igna_Burmova_CV_en.pdf
+
+wkhtmltopdf http://ignisdesign/cv/index.html /var/www/html/ignisdesign/cv/Igna_Burmova_CV.pdf
