@@ -44,6 +44,11 @@ h2 span {
 	color: #999;
 	font-weight: normal;
 }
+.line {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	border-top: 1px solid #999;
+}
 p {
 	margin: 0 0 16px 0;
 }
