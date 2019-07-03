@@ -59,7 +59,6 @@ ul {
 	margin: 0 0 32px 17px;
 }
 #objective {
-	width: 500px;
 	float: left;
 }
 #objective p {
@@ -85,4 +84,7 @@ dd.clear {
 	float: none;
 	margin: 0;
 	height: 15px;
+}
+hr {
+	border-top: 1px solid #999;
 }
