@@ -10,4 +10,4 @@ wkhtmltopdf http://ignisdesign/cv/index.html /var/www/html/ignisdesign/cv/Igna_B
 
 wkhtmltopdf --default-header --no-header-line --header-left '' https://ignis-b.github.io/portfolio/1/index_en.html Igna_Burmova_CV_en.pdf
 
-wkhtmltopdf --default-header --no-header-line --header-left '' https://ignis-b.github.io/portfolio/1/index_en.html Igna_Burmova_CV_en.pdf
+wkhtmltopdf --default-header --no-header-line --header-left '' https://ignis-b.github.io/portfolio/1/index.html Igna_Burmova_CV.pdf
