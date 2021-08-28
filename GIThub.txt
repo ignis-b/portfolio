@@ -14,8 +14,8 @@ https://ignis-b.github.io/portfolio/Igna_Burmova_CV_en.pdf
 
 
  Make sure to copy your personal access token now. You won’t be able to see it again!
-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
 
+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
 
 
 $ git clone https://github.com/username/repo.git
