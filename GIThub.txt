@@ -3,21 +3,36 @@ https://github.com/login
 
 ignis.b@gmail.com
 
-Ognyan2013
+Ognyan_2013
 
 
-
-https://ignis-b.github.io/portfolio/
-
-
-https://ignis-b.github.io/portfolio/Igna_Burmova_CV_en.pdf
+Generate  access token
+https://github.com/settings/tokens?type=beta
 
 
  Make sure to copy your personal access token now. You won’t be able to see it again!
 
-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
+Use this one as passsword
+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
+
+
+
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+
 
 
 $ git clone https://github.com/username/repo.git
 Username: your_username
 Password: your_token
+
+
+
+
+https://ignis-b.github.io/portfolio/
+https://ignis-b.github.io/portfolio/1/Igna_Burmova_CV_en.pdf
+
+
+Здравейте, това е задачата ми: 
+
+https://github.com/ignis-b/documents-calculation-challenge
