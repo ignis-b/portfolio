@@ -13,7 +13,7 @@ https://github.com/settings/tokens?type=beta
  Make sure to copy your personal access token now. You won’t be able to see it again!
 
 Use this one as passsword
-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
+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
 
 
 
