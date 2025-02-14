@@ -14,7 +14,10 @@ https://github.com/settings/tokens?type=beta
 
 Use this one as passsword
 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
+----
+But avoid this one just add ssh key
 
+https://github.com/settings/keys
 
 
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
