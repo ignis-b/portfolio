@@ -1,7 +1,7 @@
 Здравейте,
 
 Проявявам интерес към Вашата позиция, ще се радвам да се свържете с мен.
-Можете да видите последните ми проекти на този адрес: http://ignisdesign.info/
+Можете да видите последните ми проекти на този адрес: https://ignis-b.github.io/portfolio/
 
 Поздрaви
 Игна Бурмова
@@ -9,7 +9,7 @@
 Hello,
 
 I'm interested in your position. I'll be glad to get in touch with me.
-This is my portfolio http://ignisdesign.info/
+This is my portfolio https://ignis-b.github.io/portfolio/
 
 Regards
 Igna Burmova
@@ -24,3 +24,18 @@ Dear Sir/Madam, my name is Igna Burmova and I would like to apply for the positi
 By this letter I would like to express my interest in employment with your company.I'm a hard working and reliable person always looking to grow my knowledge and learn new technologies and skills.
 Therefore, I find your job offer very attractive and I hope to join your team.
 I send you my CV as an attachment.
+
+
+
+https://www.linkedin.com/in/igna-burmova-10278b18/
+
+Dear Sir/Madam,
+
+I am writing to express my interest in the PHP Developer position at your company. With solid experience in PHP and Laravel, I am eager to contribute to a product-focused environment that values quality and innovation.
+
+I am currently seeking new challenges where I can apply my expertise to build scalable, maintainable solutions and be part of impactful, forward-thinking projects. I believe my technical background and commitment to clean, efficient code align well with your team's goals.
+
+Thank you for your time and consideration. I would welcome the opportunity to further discuss how I can contribute to your success.
+
+Sincerely,
+Igna Burmova
